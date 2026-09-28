@@ -1,0 +1,10 @@
+# Testes
+pytest==8.3.3
+pytest-cov==5.0.0
+
+# Documentação
+sphinx==8.0.2
+sphinx-rtd-theme==3.0.0
+
+# Utilitários de desenvolvimento
+mypy==1.11.2
